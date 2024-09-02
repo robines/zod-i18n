@@ -81,11 +81,11 @@
     }
   },
   "validations": {
-    "email": "Epost adresse",
+    "email": "E-postadresse",
     "url": "URL",
     "uuid": "UUID",
     "cuid": "CUID",
-    "regex": "Eegex",
+    "regex": "Regex",
     "datetime": "Dato og klokkeslett"
   },
   "types": {
